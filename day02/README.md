@@ -9,4 +9,5 @@
       <li>Boolean</li>
     </ol>
   <li>Subscript</li>
+  <li>f-string</li>
 </ol>
