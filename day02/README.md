@@ -10,4 +10,5 @@
     </ol>
   <li>Subscript</li>
   <li>f-string</li>
+  <li>Type Casting<li>
 </ol>
