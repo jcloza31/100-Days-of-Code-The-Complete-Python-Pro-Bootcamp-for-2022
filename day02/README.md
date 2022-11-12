@@ -12,4 +12,5 @@
   <li>f-string</li>
   <li>Type Casting</li>
   <li>Mathematical Operations</li>
+  <li>Shorthands for Mathematical Operations</li>
 </ol>
