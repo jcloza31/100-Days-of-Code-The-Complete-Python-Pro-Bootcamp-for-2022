@@ -38,6 +38,7 @@ while program_is_on:
     play_again = input("Type 'yes' if you want to go again. Otherwise type 'no' ").lower()
     if play_again == "no":
         program_is_on = False
+        print("Goodbye! Thanks for using our Caesar Cipher.")
     
 #TODO-2: What if the user enters a shift that is greater than the number of letters in the alphabet?
 #Try running the program and entering a shift number of 45.
