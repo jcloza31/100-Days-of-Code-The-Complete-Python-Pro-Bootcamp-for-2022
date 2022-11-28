@@ -29,5 +29,3 @@ while bid_is_open:
     else:
         print("You have entered an invalid response. We will ask you to input another bidder. ")
 
-# print(bidder)
-        
